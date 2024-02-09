@@ -30,12 +30,7 @@ The aim is to leverage these datasets to:
 - Visualization: Power BI, Tableau
 - Machine Learning: Azure Machine Learning, Scikit-learn
 
-## Getting Started
 
-To use these datasets:
-1. Clone this repository.
-2. Ensure you have the necessary tools and libraries installed.
-3. Explore the datasets using Jupyter Notebooks or any preferred data analysis tools.
 
 ## Contributions
 
